@@ -18,14 +18,10 @@
       </map>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HSJRNdqW6qD8WS0znYiCbZbs75" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,8 +31,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/A200083283/OneDrive - Deutsche Telekom AG/projects/Explainability_Exchange",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+    "last_opened_file_path": "C:/Users/A200083283/OneDrive - Deutsche Telekom AG/non_DT/uni/WS_22/VSM",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,11 +48,6 @@
       <workItem from="1668327166101" duration="7480000" />
       <workItem from="1668413162603" duration="101000" />
       <workItem from="1668529950668" duration="1512000" />
-      <workItem from="1668694083053" duration="12000" />
-      <workItem from="1668694156230" duration="20000" />
-      <workItem from="1669567551807" duration="169000" />
-      <workItem from="1669567756345" duration="1489000" />
-      <workItem from="1669574058217" duration="8667000" />
     </task>
     <servers />
   </component>
