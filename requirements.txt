@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+explainerdashboard
+plotly
+jupyter
+Flask==2.2.3
+seaborn
